@@ -75,7 +75,7 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+#edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, #page = false, post = false}}
 
 # Show related content at the bottom of pages?
 show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Washington Rd.", city = "Princeton", region = "NJ", postcode = "08544", country = "United States", country_code = "US"}
+address = {street = "Princeton Neuroscience Institute, Washington Rd.", city = "Princeton", region = "NJ", postcode = "08544", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -150,14 +150,14 @@ address_format = "en-us"
 main_menu = {align = "l", show_logo = true}
 
 # Show estimated reading time for posts? (true/false)
-reading_time = true
+reading_time = false
 
 # Display next/previous section pager? (true/false)
 section_pager = false
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+sharing = false
 
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
@@ -167,7 +167,7 @@ copyright_license = {enable = false, allow_derivatives = false, share_alike = tr
 highlight_superuser = false
 
 # Link authors to their profile page? (true/false)
-link_authors = true
+link_authors = false
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
 abstract_length = 135
