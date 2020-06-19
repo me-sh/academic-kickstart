@@ -40,11 +40,11 @@ education:
   - course: PhD in Neuroscience
     institution: Weizmann Institute of Science, Israel
     year: 2015
-  - course: MA in Cognitive Science, specialization in the study of rationality, Magna Cum Laude
-    institution: The Hebrew University of Jerusalem
+  - course: MA in Cognitive Science, Specialization in the Study of Rationality
+    institution: The Hebrew University of Jerusalem, Israel
     year: 2009
-  - course: BSc in Cognitive Science & Life Sciences, Magna Cum Laude
-    institution: The Hebrew University of Jerusalem
+  - course: BSc in Cognitive Science & Life Sciences
+    institution: The Hebrew University of Jerusalem, Israel
     year: 2007
 
 # Social/Academic Networking
