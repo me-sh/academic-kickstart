@@ -53,3 +53,5 @@ Neural alignment among students during computer science lectures predicted perfo
 - Functional MRI
 - Multi-voxel pattern analysis (MVPA)
 - Non-parametric statistics
+- ML / Data Science tools: Python3, NumPy, SciPy, Pandas, SciKit-Learn, Seaborn
+- Neuroimaging tools: [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/), [BrainIAK](https://brainiak.org/), [NiBabel](https://nipy.org/nibabel/), [Nilearn](https://nilearn.github.io/), [Connectome workbench](https://www.humanconnectome.org/software/connectome-workbench)
