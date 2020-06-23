@@ -6,7 +6,7 @@ summary: "Decoding understanding of computer science concepts from student brain
 authors: []
 tags: []
 categories: []
-date: 2020-06-14T16:47:49-04:00
+date: 2020-05-28T16:47:49-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -49,9 +49,11 @@ In [Think like an expert](https://www.biorxiv.org/content/10.1101/2020.05.05.079
 
 Neural alignment among students during computer science lectures predicted performance in a final exam. For example, in the hippocampus, neural alignment to the rest of the class predicted overall exam scores weeks in advance. And during the exam, neural alignment tracked understanding of specific concepts in individual learners. Concepts that evoked better alignment with the experts - and with other students - were better understood. This could help design better courses, but for students, it might be more useful to know **why** a concept is difficult and how to understand it better. We found that we can probe students’ “knowledge structure”, pinpoint the problem and potentially say, “you struggle with recursion because you need to revisit loops”.
 
-#### Methods:
+#### Methods & tools:
 - Functional MRI
 - Multi-voxel pattern analysis (MVPA)
 - Non-parametric statistics
-- ML / Data Science tools: Python3, NumPy, SciPy, Pandas, SciKit-Learn, Seaborn
+- Machine learning / Data Science tools: [Python3](https://www.python.org/),[R](https://www.r-project.org/), [NumPy](https://numpy.org/), [SciPy](https://www.scipy.org/), [Pandas](https://pandas.pydata.org/), [SciKit-Learn](https://scikit-learn.org/stable/), [Seaborn](https://seaborn.pydata.org/)
 - Neuroimaging tools: [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/), [BrainIAK](https://brainiak.org/), [NiBabel](https://nipy.org/nibabel/), [Nilearn](https://nilearn.github.io/), [Connectome workbench](https://www.humanconnectome.org/software/connectome-workbench)
+- High-performance computing (HPC) (on prem)
+

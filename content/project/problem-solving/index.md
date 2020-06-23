@@ -6,7 +6,7 @@ summary: "Leveraging unsupervised learning to study problem-solving in the human
 authors: []
 tags: []
 categories: []
-date: 2020-06-16T11:10:55-04:00
+date: 2017-01-01T11:10:55-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -45,10 +45,13 @@ slides: ""
 In this **problem-solving** study, we used unsupervised learning to explore the rapid interaction between competing brain networks during complex task performance. 
 
 #### Methods:
-- Intracranial recordings
+- Intracranial EEG (electrophysiological recordings)
+- Signal processing
 - Time-series analysis
-- Dimensionality reduction
+- Frequency domain analysis
+- Dimensionality reduction (PCA, t-SNE, feature engineering)
 - Clustering
+- Scripting in [MATLAB](https://www.mathworks.com/products/signal.html) & [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php)
 
 
 

@@ -6,7 +6,7 @@ summary: "Using regression to find out what happens when the brain gets bored"
 authors: []
 tags: []
 categories: []
-date: 2020-06-16T11:11:42-04:00
+date: 2017-01-01T11:11:42-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -46,8 +46,12 @@ slides: ""
 
 When we get bored, our brain quickly frees up processing power, keeping up task performance (so you can keep driving down the interstate) while increasingly thinking about other things (life!). Read all about it in our [Trained to Silence](https://www.sciencedirect.com/science/article/abs/pii/S1053811916304517) paper.
 
-#### Methods:
- - Functional MRI (brain data)
- - Behavioral testing
- - General linear model (GLM)
-
+#### Methods & tools:
+ - Functional MRI
+ - Behavioral testing (questionnaires & tests)
+ - General linear model (GLM) analysis
+ - Time-series analysis 
+ - High-performance computing (HPC) (on prem)
+ - Scripting: MATLAB, Shell
+ - Brain imaging software: [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSL)
+ 
