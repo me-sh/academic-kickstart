@@ -14,8 +14,6 @@ role: Postdoc researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Princeton University
-  url: "https://www.princeton.edu/"
 - name: Princeton Neuroscience Institute
   url: "https://pni.princeton.edu/"
 - name: Hasson lab
@@ -27,7 +25,7 @@ organizations:
   
 
 # Short bio (displayed in user profile at end of posts)
-bio: Meir Meshulam is a postdoc in neuroscience at Princeton University, using machine learning and deep learning to study human cognition.
+bio: Meir Meshulam is a postdoc in neuroscience at [" Princeton University "](https://www.princeton.edu/), using machine learning and deep learning to study human cognition.
 
 
 interests:
