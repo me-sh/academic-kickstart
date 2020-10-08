@@ -25,7 +25,7 @@ organizations:
   
 
 # Short bio (displayed in user profile at end of posts)
-bio: Meir Meshulam is a postdoc in neuroscience at [" Princeton University "](https://www.princeton.edu/), using machine learning and deep learning to study human cognition.
+bio: Meir Meshulam is a postdoc in Neuroscience at [" Princeton University "](https://www.princeton.edu/), using machine learning and deep learning to study human cognition.
 
 
 interests:
